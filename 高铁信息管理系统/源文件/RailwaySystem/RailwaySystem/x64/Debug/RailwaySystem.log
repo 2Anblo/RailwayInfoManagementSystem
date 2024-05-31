@@ -1,0 +1,48 @@
+﻿  HighRail.cpp
+  Menu.cpp
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_1.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“SqListStoppingStation”的左侧
+  Passenger.cpp
+  (编译源文件“HighRail.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_2.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“PassData”的左侧
+  (编译源文件“HighRail.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_1.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“SqListStoppingStation”的左侧
+  (编译源文件“Menu.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_2.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“PassData”的左侧
+  (编译源文件“Menu.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Menu.cpp(9,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Menu.cpp(26,11): warning C4101: “blist”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Menu.cpp(25,14): warning C4101: “PList”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Menu.cpp(83,11): warning C4101: “blist”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Menu.cpp(81,15): warning C4101: “railList”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Menu.cpp(141,14): warning C4101: “PList”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_1.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“SqListStoppingStation”的左侧
+  (编译源文件“Passenger.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_2.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“PassData”的左侧
+  (编译源文件“Passenger.cpp”)
+  
+  booking.cpp
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_1.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“SqListStoppingStation”的左侧
+  (编译源文件“booking.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\List_2.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“PassData”的左侧
+  (编译源文件“booking.cpp”)
+  
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(369,25): warning C4101: “k”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(523,25): warning C4101: “k”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(1118,17): warning C4101: “N_m”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(1117,17): warning C4101: “B_m”: 未引用的局部变量
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(1246,79): warning C4474: printf: 格式字符串中传递的参数太多
+  F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(1246,79):
+  占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  正在生成代码...
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\booking.cpp(96,1): warning C4715: “ReadFromBooking”: 不是所有的控件路径都返回值
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\Passenger.cpp(312,1): warning C4715: “ReadPassengersFromFile”: 不是所有的控件路径都返回值
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\HighRail.cpp(464,1): warning C4715: “ModifyTrain”: 不是所有的控件路径都返回值
+F:\Sophomore1\数据结构\大作业\RailwaySystem\RailwaySystem\HighRail.cpp(537,1): warning C4715: “ReadTrainFromFile”: 不是所有的控件路径都返回值
+  RailwaySystem.vcxproj -> F:\Sophomore1\数据结构\大作业\RailwaySystem\x64\Debug\RailwaySystem.exe
